@@ -16,11 +16,9 @@ The Eyes Exercise is a JavaScript application that animates a pair of eyes that 
 3. Move your cursor around the screen and watch the eyes follow your movement.
 4. Enjoy the interactive eyes exercise!
 
-## Technologies Used
+## Future Improvements
 
-- HTML
-- CSS
-- JavaScript
+I would like to improve this in the future by changing the eyes to look more realistic.  This can be done by continuing to revise the styles CSS file.
 
 ## License
 
